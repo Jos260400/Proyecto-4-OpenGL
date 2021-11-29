@@ -1,2 +1,3 @@
-# Proyecto-4-OpenGL
-Proyecto 4: OpenGL
+# #Proyecto No. 4
+Proyecto No. 4
+
